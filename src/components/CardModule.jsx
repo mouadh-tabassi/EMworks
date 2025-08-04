@@ -113,8 +113,8 @@ class CardModule extends Component {
             <div className="relative">
                 <a href="#">
                     <img className="w-full"
-                        src="https://images.pexels.com/photos/257816/pexels-photo-257816.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500"
-                        alt="Sunset in the mountains" />
+                        src="C:\Users\youns\satge\test\public\rf.avif"
+                        alt="RF et microwave" />
                     <div
                         className="hover:bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 bg-gray-900 opacity-25">
                     </div>
